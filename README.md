@@ -22,9 +22,6 @@ You are required to do the following:
 
     Percentage of Winning = (GamesWon / GamesPlayed)*100
 
-## Data Processing Instructions
-If there are any numerical error, replace it with 0%
-
 - Print the top 5 teams which has the highest Winning percentage
 
 - Group teams based on their “Best position” and print the sum of their points for all positions (10 points)
